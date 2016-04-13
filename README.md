@@ -14,8 +14,16 @@ This research prototype implements several mergability measures for [RDF Data Cu
 - Aggregation approaches
   - Sum with boosting weights
   - Hungarian algorithm
-- Datahub Crawler to collect all available strucuture definitons, that are available in the linked data cloud
+- Datahub Crawler to collect all available strucuture definitons in the linked data cloud
 - Evaluation of the implemented approaches
+
+### Datasets
+
+Two dataset are created for the evaluation of this approach
+
+- Set 1: Based on the German Reich statistics, fully disambiguated with DBpedia concepts
+- Set 2: Crawl of the structure definition in the linked data cloud
+
 
 ### License
 
